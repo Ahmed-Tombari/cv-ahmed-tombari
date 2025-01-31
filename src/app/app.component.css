@@ -1,0 +1,25 @@
+
+  
+  .main-container {
+    display: flex;
+    flex: 1;
+  }
+  
+  app-sidebar {
+    width: 610px;
+    background-color: #333;
+    color: #fff;
+    top: 100px;
+    bottom: 0;
+    left: 50px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .h1 {
+    color: grey;
+  }
+  .h4 {
+    color: grey;
+  }
+  

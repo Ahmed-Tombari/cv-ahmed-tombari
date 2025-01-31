@@ -1,0 +1,36 @@
+
+.ft-legal {
+  height: 120px;
+  display: flex;
+  background-color: #000000;
+  color: #fcf2f2;
+  width: 100%; 
+}
+
+.footer-qr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.qr-code {
+  width: 100px; 
+  height: auto;
+  border-radius: 8px; 
+  border: 2px solid #fff;
+  margin-left: 10px;
+}
+
+.qr-label {
+  color: #fcf2f2;
+  font-size: 14px;
+  font-style: italic;
+  margin-left: 20px;
+}
+
+.footer-text {
+  align-items: center;
+  font-size: 16px;
+  color: #fcf2f2;
+  margin-left: 120px;
+}
+

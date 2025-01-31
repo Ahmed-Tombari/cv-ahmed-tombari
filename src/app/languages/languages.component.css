@@ -1,0 +1,35 @@
+
+
+h1 {
+  font-size: 24px;
+  color: #ffffff;
+  text-align: left;
+  margin: 0;
+  position: relative;
+}
+
+.underline {
+  border-bottom: 2px solid #ffffff;
+  margin-bottom: 10px;
+}
+
+.box-container {
+  width: 100%; 
+}
+
+.box-text {
+  font-size: 17px;
+  font-weight: bold;
+  display: inline-block;
+  text-align: left; 
+  margin-right: 5px;
+}
+
+.box-text-1 {
+  margin-top: 3px;
+  width: 250px;
+  font-size: 16px;
+  display: inline-block;
+  text-align: left;
+  margin-bottom: 10px;
+}

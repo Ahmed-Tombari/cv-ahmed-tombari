@@ -1,0 +1,20 @@
+h1 {
+  font-size: 24px;
+  margin: 0;
+  position: relative;
+}
+
+.underline {
+  border-bottom: 2px solid #ffffff;
+  margin-bottom: 10px;
+}
+
+.box-text {
+  font-size: 16px; 
+  color: #ccc; 
+  margin: 0; 
+  color: white;
+  font-weight: 500;
+}
+
+

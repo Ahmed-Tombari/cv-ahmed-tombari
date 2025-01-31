@@ -1,0 +1,38 @@
+.sidebar-content {
+  padding: 0px;
+}
+
+.box-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.box-text,
+.box-text-right {
+  font-size: 17px;
+  font-weight: bold;
+  
+}
+
+.box-text {
+  margin-bottom: 2px;
+}
+
+.profile-title {
+  font-size: 25px; 
+  font-weight: bold;
+  color: rgb(12, 11, 11);
+}
+
+.underline {
+  border-bottom: 2px solid #0a0909;
+  margin-bottom: 10px;
+}
+
+.text-1 {
+  font-size: 17px;
+  font-weight: none;
+  margin-bottom: 5px;
+}

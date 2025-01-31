@@ -1,0 +1,22 @@
+.sidebar-content {
+    width: 100%;
+    text-align: center; 
+  }
+  
+  .small-box {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin-top: 10px; 
+  }
+  
+  .small-box img {
+    max-width: 100%; 
+    height: auto; 
+    border-radius: 8px; 
+  }
+  
+  .underline {
+    border-bottom: 2px solid #000000;
+    margin-bottom: 15px;
+  }

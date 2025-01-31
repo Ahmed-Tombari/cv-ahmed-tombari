@@ -1,0 +1,57 @@
+h1 {
+  font-size: 24px;
+  margin: 0;
+  position: relative;
+}
+
+.underline {
+  border-bottom: 2px solid #ffffff;
+  margin-bottom: 15px;
+}
+
+h4 {
+  font-size: 16px;
+  color: white;
+  font-weight: 500;
+}
+
+.info-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.mat-icon {
+  margin-right: 10px;
+  color: white;
+  font-weight: 500;
+  width: 29px;
+}
+
+.box-text {
+  font-size: 16px;
+  color: #ccc; 
+  margin: 0; 
+  color: white;
+  font-weight: 500;
+}
+
+.small-box {
+  width: 328px; 
+  height: 139px; 
+  border: 1px solid rgb(247, 243, 243); 
+  color: rgb(255, 255, 255); 
+  align-items: flex-start; 
+  padding: 10px; 
+  border-radius: 8px;
+  margin-left: -10px;
+  margin-right: -8px;
+  margin-bottom: 10px;
+}
+
+.info-item i {
+  margin-right: 8px;
+  font-size: 1.2rem;
+  color: #ffffff;
+  vertical-align: middle;
+}

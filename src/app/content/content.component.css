@@ -1,0 +1,16 @@
+app-education,
+app-experience {
+  display: block;
+  margin-bottom: 20px;
+}
+app-navbar {
+  margin-bottom: 20px;
+}
+
+.content {
+  margin-left: 0;
+
+  padding: 20px;
+  flex: 1;
+
+}

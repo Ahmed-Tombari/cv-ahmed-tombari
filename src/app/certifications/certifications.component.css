@@ -1,0 +1,111 @@
+
+
+.box-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%; 
+    margin: auto; 
+  }
+  
+  .box-text,
+  .box-text-right {
+    font-size: 17px;
+    font-weight: bold;
+  }
+  
+  @media (max-width: 768px) {
+    .box-container {
+      width: 100%; 
+      flex-direction: column; 
+      align-items: flex-start;
+    }
+  
+    .box-text-right {
+      text-align: left; 
+      margin-top: 5px; 
+    }
+  }
+  
+  .certification-title {
+    font-size: 25px; 
+    font-weight: bold;
+    color: rgb(12, 11, 11);
+  }
+  
+  .underline {
+    border-bottom: 2px solid #0a0909;
+    margin-bottom: 10px;
+  }
+  
+  .box-text-1,
+  .box-text-right-1 {
+    font-size: 16px;
+    color: rgb(50, 50, 50);
+    margin-bottom: 10px; 
+  }
+  
+  /********************* Projects ********/
+  .project {
+    margin-bottom: 5px;
+  }
+  
+  .text-1 {
+    font-size: 15px;
+    font-weight: none;
+    margin-left: 10px;
+  }
+  .simple-text {
+    font-size: 95%;
+    font-weight: bold;
+  }
+  
+  /*************************************/
+  .project {
+    margin-bottom: 10px;
+  }
+  
+  .project strong {
+    font-size: 16px;
+    color: rgb(5, 5, 5);
+    display: block;
+    margin-bottom: 3px;
+  }
+  
+  .project-points {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    margin-left: 10px;
+  }
+  
+  .project-points li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 3px;
+  }
+  
+  .project-points li::before {
+    content: "\2022"; 
+    color: rgb(0, 0, 0); 
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .project-points li {
+    font-size: 15px;
+    line-height: 1.6;
+  }
+  
+  .project-environment {
+    margin-top: 3px;
+    margin-left: 10px;
+    font-size: 15px;
+    line-height: 1.6;
+  }
+  
+  .simple-text {
+    font-weight: bold;
+    display: inline;
+  }
+  
