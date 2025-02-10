@@ -39,7 +39,7 @@ h4 {
 .small-box {
   width: 328px; 
   height: 139px; 
-  border: 1px solid rgb(247, 243, 243); 
+  /*border: 1px solid rgb(247, 243, 243); */
   color: rgb(255, 255, 255); 
   align-items: flex-start; 
   padding: 10px; 
